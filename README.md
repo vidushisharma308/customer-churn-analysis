@@ -45,5 +45,6 @@ This project analyzes customer churn behavior using multi-source datasets to ide
 [View Insights](./Insights/churn_insights.md)
 
 ---
+<img width="1601" height="902" alt="image" src="https://github.com/user-attachments/assets/0b71733d-00e1-4c53-b1cb-2881107d96f9" />
 
 ## Project Structure
